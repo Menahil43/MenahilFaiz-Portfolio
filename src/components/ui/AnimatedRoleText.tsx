@@ -6,6 +6,7 @@ const ROLES = [
   { text: "Software Engineering Student", className: "text-text-primary" },
   { text: "Full Stack Developer", className: "text-gradient-primary" },
   { text: "AI Developer", className: "" },
+  { text: "Digital Marketer", className: "" }
 ];
 
 const TYPING_SPEED = 80; // ms per character
